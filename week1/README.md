@@ -13,5 +13,6 @@
 * Exercise 1.1
 
 ### Files:
-1. Exercise 1.1 
+* Exercise 1.1 
     - AWS IAM permission
+    - Cloud9 terminal commands
