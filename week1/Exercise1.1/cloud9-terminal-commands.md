@@ -19,6 +19,8 @@ Change to the ex-driver directory, and use pip to install the Python requirement
     
     pip-3.6 install -r requirements.txt --user
 
+PK Note: The only package in `requirements.txt` is `boto3`.
+
 Use the following command to launch training.py. Use the arrow keys to drive the car on the sine wave track. The road display is always relative to the car. Think of it as data from a sensor array on the front of the car.
 
     python3 training.py
