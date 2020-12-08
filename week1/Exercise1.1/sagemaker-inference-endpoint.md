@@ -33,7 +33,10 @@ The inference JSON response contains predictions, scores for each label and a pr
 
 * Run the following commands in your AWS Cloud9 terminal to change to the exercise folder and run the inference code:
 
+    ```
     cd ~/environment/ex-driver
+    
     python3 inference.py
-
+    ```
+    
 * You have the option of running the simulated car against a random or sine wave road. Press CTRL+C or COMMAND+C to break out of the program, or wait for it to complete.
