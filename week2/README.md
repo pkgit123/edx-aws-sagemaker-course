@@ -1,0 +1,11 @@
+# Week 2
+
+Topics:
+1. Introduction to Week 2
+1. Introduction to Jupyter Notebooks
+1. Notebooks and Libraries: Cleaning and Preparing Data
+1. Exercise 2.1 Walkthrough
+1. Exercise 2.1: Create Your Notebook Instance (Optional)
+
+Files:
+* exercise2.1-notebook-instance.md
