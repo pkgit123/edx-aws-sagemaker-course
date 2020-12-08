@@ -7,5 +7,5 @@ Topics:
 1. Exercise 2.1 Walkthrough
 1. Exercise 2.1: Create Your Notebook Instance (Optional)
 
-Files:
+Exercise Files:
 * exercise2.1-notebook-instance.md
