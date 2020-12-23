@@ -16,6 +16,12 @@ Expand for step-by-step instructions.
 In this section, you will download the Amazon-SageMaker-high-level-Python-library.ipynb notebook and training.csv file to your instance.
 
 * To download the Amazon-SageMaker-high-level-Python-library.ipynb notebook, open a terminal window. For New, click Terminal.
+    * JupyterLab -> New Terminal
+    ```
+    $ pwd
+    $ ls
+    $ cd ~/SageMaker
+    ```
 * Run the following commands to change the directory, and download the notebook and .csv file.
 
     ```
