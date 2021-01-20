@@ -36,3 +36,13 @@
 1. To stop the notebook instance, return to the AWS console, and click Services > Amazon SageMaker to open the Amazon SageMaker dashboard.
 1. In the left navigation pane, click Notebook instances, and then click Stop next to the edXSageMaker instance.
 
+
+### 4. Delete the endpoint configuration and model.
+1. Return to the the Amazon SageMaker dashboard.
+1. In the left navigation pane, click Endpoints, and ensure the endpoint created by the notebook has been removed.
+1. In the left navigation pane, for Endpoint configurations, click the the endpoint that starts with kmeans.
+1. For Actions, click Delete.
+1. Click Delete to confirm.
+1. In the left navigation pane, for Models, click the model that starts with kmeans.
+1. For Actions, click Delete.
+1. Click Delete to confirm.
