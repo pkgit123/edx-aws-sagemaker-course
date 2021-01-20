@@ -8,7 +8,9 @@
 1. In this section, you will launch the sample kmeans_mnist.ipynb notebook into your notebook instance.
 1. The Amazon SageMaker examples are maintained in a Git repository at https://github.com/awslabs/amazon-sagemaker-examples.
 1. From the Jupyter notebook home, click SageMaker Examples.
-    * In JupyterLab, this is on left-pane-menu
+   * Harder to navigate in JupyterLab ... easier to navigate in JupyterNotebook
+   * There are over 20 sections of examples, with dozens of notebooks in each section
+   * In JupyterLab, this is on left-pane-menu
 1. Locate the kmeans_mnist example in SageMaker Python Sdk > kmeans_mnist.ipynb, and click Use.
 1. Click Create copy to copy and launch the example.
 1. To complete the example notebook, run each individual cell, and inspect the output from each run.
