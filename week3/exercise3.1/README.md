@@ -1,5 +1,6 @@
 # Exercise 3.1 Instructions
 
+### 1. Start the Amazon SageMaker notebook instance.
 1. Sign in to the AWS Management Console as the edXSageMakerUser IAM user.
 1. In the console, click Services > Amazon SageMaker to open the Amazon SageMaker dashboard.
 1. Make sure you are in the Oregon Region.
@@ -7,6 +8,8 @@
 1. When the notebook instance status moves to InService, click Open to open the notebook in a new browser tab.
 1. In this section, you will launch the sample kmeans_mnist.ipynb notebook into your notebook instance.
 1. The Amazon SageMaker examples are maintained in a Git repository at https://github.com/awslabs/amazon-sagemaker-examples.
+
+### 2. Start the Amazon SageMaker example.
 1. From the Jupyter notebook home, click SageMaker Examples.
    * Harder to navigate in JupyterLab ... easier to navigate in JupyterNotebook
    * There are over 20 sections of examples, with dozens of notebooks in each section
@@ -14,4 +17,10 @@
 1. Locate the kmeans_mnist example in SageMaker Python Sdk > kmeans_mnist.ipynb, and click Use.
 1. Click Create copy to copy and launch the example.
 1. To complete the example notebook, run each individual cell, and inspect the output from each run.
+
+### 3. End running Jupyter processes, and stop the notebook instance.
+1. From the Jupyter notebook home, click Running.
+1. Click Shutdown next to the terminal and notebook.
+1. To stop the notebook instance, return to the AWS console, and click Services > Amazon SageMaker to open the Amazon SageMaker dashboard.
+1. In the left navigation pane, click Notebook instances, and then click Stop next to the edXSageMaker instance.
 
