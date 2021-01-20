@@ -17,6 +17,18 @@
 1. Locate the kmeans_mnist example in SageMaker Python Sdk > kmeans_mnist.ipynb, and click Use.
 1. Click Create copy to copy and launch the example.
 1. To complete the example notebook, run each individual cell, and inspect the output from each run.
+  * sagemaker -> get_execution_role()
+  * sagemaker.session -> Session()
+  * role
+  * bucket
+  * Download data, unzip, pickle
+  * sagemaker -> KMeans() -> output_path, data_location
+  * kmeans.fit()
+  * kmeans.fit(kmeans.record_set(train_set[0]))
+  * kmeans.deploy()
+  * kmeans.deploy().predict()
+  
+  
 
 ### 3. End running Jupyter processes, and stop the notebook instance.
 1. From the Jupyter notebook home, click Running.
